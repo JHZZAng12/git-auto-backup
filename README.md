@@ -1,4 +1,4 @@
-# Python Git Auto Backup
+
 # Python Git Auto Backup
 
 파이썬 파일의 변경을 감지하고 GitHub에 자동으로 백업하는 리눅스용 프로그램입니다.
